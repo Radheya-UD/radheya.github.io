@@ -23,17 +23,17 @@
 
 ### Muon Rate Variations During Extreme Solar Events  
 (_April 2024 - June 2024_)  
-- Built a muon detector and proposed an analytical framework to correlate muon data with extreme solar activities.  
+- Built a muon detector with Dr. Axani's guidance and proposed an analytical framework to correlate muon data with extreme solar activities.  
 - Found a 4% increase in muon rates corresponding to high proton flux events.  
 
-![Muon Rate Variations](/assets/img/muon_rate_variations.jpeg)  
+![Muon Rate Variations](/assets/img/muonAndflux.png)  
 
 ### Fault-Tolerant Universal Quantum Computation with Magic State Distillation  
 (_Sept 2023 - Dec 2023_)  
 - Analyzed fault-tolerant quantum computation using Clifford gates and magic state injection for T-gates.  
 - Implemented error correction techniques, including quantum stabilizer codes and logical qubit encoding, to mitigate decoherence.  
 
-![Magic State Distillation](/assets/img/magic_state_distillation.jpeg)  
+#![Magic State Distillation](/assets/img/magic_state_distillation.jpeg)  
 
 ## Leadership  
 ### **Founding Member & Social Media Director**  
