@@ -1,4 +1,4 @@
-# Quantum Science and Engineering Researcher
+# Quantum Science and Engineering Graduate Student
 
 #### Technical Skills: Python, C, C++, SQL, IBM Qiskit, FDFD and FDTD simulations, Inverse design optimization
 
@@ -6,10 +6,7 @@
 - **M.S., Quantum Science and Engineering** | University of Delaware (_Expected May 2025_)  
 - **B.E., Computer Science** | Savitribai Phule Pune University (_July 2021_)  
 
-## Work Experience
-### **Software DevOps Engineer @ Birlasoft** (_Sept 2021 - Sept 2022_)  
-- Led deployment and maintenance of software and database production servers for Synchrony Bank.  
-- Ensured high system availability and reliability.  
+
 
 ## Projects  
 ### Computational Nanophotonics  
@@ -17,7 +14,7 @@
 - Designed and optimized dielectric structures to improve photon collection efficiency by 30% for quantum-optical interfaces.
 - Single-photon emitters embedded inside waveguides primarily exhibit in-plane propagation of emitted photons. However, characterizing the quality of these sources requires studying their quantum optical properties, such as purity, indistinguishability, and coherence. To achieve this, the emitted photons must be efficiently extracted and coupled into external fiber optics for further analysis. We utilize computationally designed (inverse-designed) photonic couplers to maximize the coupling efficiency between the waveguide mode and the optical fiber mode. By leveraging adjoint-based optimization techniques, these couplers are tailored to minimize modal mismatch and propagation losses, ensuring high-fidelity photon transfer for downstream quantum measurements.
 ![nverse designed suspended GaAs membrane based coupler](/assets/img/ID_coupler.png)
-- I majorly use [**SPINS**](https://doi.org/10.1063/5.0018515) and [**Tidy3D**](https://www.flexcompute.com/tidy3d/solver/) for inverse design optimizations.
+- I majorly use [**SPINS**](https://pubs.aip.org/apr/article/7/1/011407/124395/Nanophotonic-inverse-design-with-SPINS-Softwarehttps://doi.org/10.1063/5.0018515) and [**Tidy3D**](https://www.flexcompute.com/tidy3d/solver/) for inverse design optimizations.
 
 
 ### Muon Rate Variations During Extreme Solar Events  
@@ -32,7 +29,10 @@
 - Analyzed fault-tolerant quantum computation using Clifford gates and magic state injection for T-gates.  
 - Implemented error correction techniques, including quantum stabilizer codes and logical qubit encoding, to mitigate decoherence.  
 
-#![Magic State Distillation](/assets/img/magic_state_distillation.jpeg)  
+## Work Experience
+### **Software DevOps Engineer @ Birlasoft** (_Sept 2021 - Sept 2022_)  
+- Led deployment and maintenance of software and database production servers for Synchrony Bank.  
+- Ensured high system availability and reliability.  
 
 ## Leadership  
 ### **Founding Member & Social Media Director**  
