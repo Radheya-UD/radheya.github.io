@@ -17,12 +17,9 @@
 ### Computational Nanophotonics  
 (_Dec 2023 - Present_)  
 - Designed and optimized dielectric structures to improve photon collection efficiency by 30% for quantum-optical interfaces.
-- Single photon emitters embedded inside waveguides have in-plane propogation. However to study the quality of a single photon source, we need to study quantum emissions of the source.
-- We do it by coupling emitted photons to external fiber optics. We use a computationally designed (invers edesigned) coupler to achieve maximum coupling efficiency between the waveguide and optical fiber.
-![Computational Nanophotonics](/assets/img/computational_nanophotonics.jpeg)  
-- Working toward integrating non-linear photonics and squeezed light generation for on-chip continuous-variable quantum computing.  
+- Single-photon emitters embedded inside waveguides primarily exhibit in-plane propagation of emitted photons. However, characterizing the quality of these sources requires studying their quantum optical properties, such as purity, indistinguishability, and coherence. To achieve this, the emitted photons must be efficiently extracted and coupled into external fiber optics for further analysis. We utilize computationally designed (inverse-designed) photonic couplers to maximize the coupling efficiency between the waveguide mode and the optical fiber mode. By leveraging adjoint-based optimization techniques, these couplers are tailored to minimize modal mismatch and propagation losses, ensuring high-fidelity photon transfer for downstream quantum measurements.
+![nverse designed suspended GaAs membrane based coupler](/assets/img/ID_coupler.png)  
 
-![Computational Nanophotonics](/assets/img/computational_nanophotonics.jpeg)  
 
 ### Muon Rate Variations During Extreme Solar Events  
 (_April 2024 - June 2024_)  
@@ -49,6 +46,3 @@
 - **4th Annual Quantum Engineering Workshop**, Caltech, May 2024 (Virtual)  
 - **IEEE Quantum Community**, Professional Member (Since Dec 2022)  
 
----
-
-Feel free to replace the placeholders (`/assets/img/...`) with actual paths to your images once you upload them. Let me know if you want any modifications! 🚀
