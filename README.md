@@ -4,9 +4,7 @@
 
 ## Education
 - **M.S., Quantum Science and Engineering** | University of Delaware (_Expected May 2025_)  
-  _GPA: 3.807/4.0_  
 - **B.E., Computer Science** | Savitribai Phule Pune University (_July 2021_)  
-  _GPA: 8.26/10.0_
 
 ## Work Experience
 ### **Software DevOps Engineer @ Birlasoft** (_Sept 2021 - Sept 2022_)  
@@ -18,12 +16,13 @@
 (_Dec 2023 - Present_)  
 - Designed and optimized dielectric structures to improve photon collection efficiency by 30% for quantum-optical interfaces.
 - Single-photon emitters embedded inside waveguides primarily exhibit in-plane propagation of emitted photons. However, characterizing the quality of these sources requires studying their quantum optical properties, such as purity, indistinguishability, and coherence. To achieve this, the emitted photons must be efficiently extracted and coupled into external fiber optics for further analysis. We utilize computationally designed (inverse-designed) photonic couplers to maximize the coupling efficiency between the waveguide mode and the optical fiber mode. By leveraging adjoint-based optimization techniques, these couplers are tailored to minimize modal mismatch and propagation losses, ensuring high-fidelity photon transfer for downstream quantum measurements.
-![nverse designed suspended GaAs membrane based coupler](/assets/img/ID_coupler.png)  
+![nverse designed suspended GaAs membrane based coupler](/assets/img/ID_coupler.png)
+- I majorly use [**SPINS**](https://doi.org/10.1063/5.0018515) and [**Tidy3D**](https://www.flexcompute.com/tidy3d/solver/) for inverse design optimizations.
 
 
 ### Muon Rate Variations During Extreme Solar Events  
 (_April 2024 - June 2024_)  
-- Built a muon detector with Dr. Axani's guidance and proposed an analytical framework to correlate muon data with extreme solar activities.  
+- Built a muon detector with Dr. Axani's guidance [**Ref**](http://www.cosmicwatch.lns.mit.edu/) and proposed an analytical framework to correlate muon data with extreme solar activities.  
 - Found a 4% increase in muon rates corresponding to high proton flux events.  
 
 ![Muon Rate Variations](/assets/img/muonAndflux.png)  
